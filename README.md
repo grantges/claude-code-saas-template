@@ -1,4 +1,4 @@
-# claude-code-saas-template
+# Claude Code Saas Template
 This tempalte is an opinionated project template for bootstrapping multi-tenant SaaS web applications using Claude Code as your AI-powered development partner.
 
 It provides a pre-configured CLAUDE.md with instructions that turn Claude into a Sr. Product Manager who coordinates a team of specialized AI agents — a DBA, Designer, Full-Stack Developer, and UX Engineer — each with detailed persona prompts under /prompts/agents/.
